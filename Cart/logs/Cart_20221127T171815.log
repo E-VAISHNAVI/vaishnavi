@@ -1,0 +1,8 @@
+2022-11-27 17:18:21 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration -
+				spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-11-27 17:18:22 [restartedMain] WARN  o.s.b.d.a.OptionalLiveReloadServer -
+				Unable to start LiveReload server
+2022-11-27 17:18:22 [restartedMain] WARN  o.s.c.l.c.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger -
+				Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2022-11-27 17:20:54 [DiscoveryClient-0] WARN  c.n.discovery.TimedSupervisorTask -
+				task supervisor shutting down, can't accept the task
